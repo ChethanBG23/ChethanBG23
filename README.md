@@ -1,5 +1,12 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>- 🔭 I’m currently working on mobile games using Unity Engine<br>- 🎮 I’m passionate about creating casual and arcade mobile games<br>- 👯 I’m looking to collaborate on Unity game development projects<br>- 🌱 I’m currently learning advanced game mechanics, optimization, and game polish<br>- 💬 Ask me about Unity, C#, mobile game development, and game testing<br>- ⚡ Fun fact: I love turning simple game ideas into playable mobile games
+👨‍💻 About Me
+
+- 🔭 I’m currently working on mobile games using Unity Engine
+- 🎮 Passionate about Unity game development and automation testing
+- 👯 I’m looking to collaborate on Unity game projects and QA automation projects
+- 🌱 I’m currently learning advanced Unity development and Selenium automation testing
+- 💬 Ask me about Unity, C#, Selenium, manual testing, and mobile game development
+- ⚡ Fun fact: I enjoy building games and exploring software testing concepts
 
 
 ## 🌐 Socials:
