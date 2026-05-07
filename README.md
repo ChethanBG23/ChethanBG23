@@ -161,11 +161,15 @@ Building Games • Testing Software • Creating Better Experiences
 
 # 🎮 Featured Projects
 
+<div align="center">
+
 | Project | Description | Tech |
 |---|---|---|
-| Tap Panic | Fast-paced arcade tapping game | Unity, C#, AdMob |
-| Riddle Mind | Puzzle game with 100 riddles | Unity, C# |
-| Ball Bounce | Survival bouncing ball game | Unity, Physics System |
+| 🎯 Tap Panic | Fast-paced arcade tapping game | Unity, C#, AdMob |
+| 🧩 Riddle Mind | Puzzle game with 100 riddles | Unity, C# |
+| ⚡ Ball Bounce | Survival bouncing ball game | Unity, Physics System |
+
+</div>
 
 ---
 
