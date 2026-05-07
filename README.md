@@ -35,6 +35,12 @@
 - ⚡ Fun fact: I enjoy finding bugs as much as building games
 
 ---
+<p align="center">
+  <a href="https://github.com/ChethanBG23/Resume/blob/main/Chethan%20BG%20-%20Software%20Tester.pdf">
+    <img src="https://img.shields.io/badge/Resume-View%20Resume-red?style=for-the-badge">
+  </a>
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chethan230695/) 
