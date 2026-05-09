@@ -152,9 +152,7 @@ Building Games • Testing Software • Creating Better Experiences
 # 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=unity,cs,java,selenium,postman,mysql,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=unity,cs,java,selenium,postman,mysql,git,github" />
 </p>
 
 ---
@@ -204,13 +202,17 @@ Building Games • Testing Software • Creating Better Experiences
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChethanBG23&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChethanBG23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=21600&v=2" />
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChethanBG23&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChethanBG23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=21600&v=2" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChethanBG23&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=ChethanBG23&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChethanBG23&theme=tokyonight" />
 </p>
 
 ---
@@ -223,6 +225,18 @@ Building Games • Testing Software • Creating Better Experiences
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChethanBG23&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 <h2 align="center">
-⭐ Game Developer • QA Engineer  ⭐
+⭐ Game Developer • QA Engineer ⭐
 </h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00C9FF,100:6C63FF&height=120&section=footer"/>
+</p>
